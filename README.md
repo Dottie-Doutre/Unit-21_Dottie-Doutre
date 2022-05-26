@@ -2,7 +2,7 @@
 
 Assignment by Dorothy Doutre
 
-![image_add](images/application-image.png)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/application-image.png?raw=true)
 
 ## Assignment Sumamry:
 
@@ -33,54 +33,54 @@ Deploy and Test the Crowdsale on a Local Blockchain.
 
 ### Solidity Compiler (KaseiCoin.sol)
 
-![image_add](images/KCoin1.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin1.PNG?raw=true)
 
 ### Solidity Compiler (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin2.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin2.PNG?raw=true)
 
 ### Deploying KaseiCoin (KaseiCoinCrowdsale.sol)
 
 In this section, adding the relevant information of name, symbol and address.
 
-![image_add](images/KCoin3.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin3.PNG?raw=true)
 
 ### Deploying KaseiCoin MetaMask confirmation (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin4.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin4.PNG?raw=true)
 
 ### Deployed KaseiCoinCrowdsale address (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin5.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin5.PNG?raw=true)
 
 ### Deployed KaseiCoin (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin6.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin6.PNG?raw=true)
 
 ### Initial buy of KaseiCoin (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin7.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin7.PNG?raw=true)
 
 ### Initial buy of KaseiCoin MetaMask Confirmation (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin8.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin8.PNG?raw=true)
 
 ### Initial buy of KaseiCoin Confirmation (KaseiCoinCrowdsale.sol)
 
 Checking balanceOf, symbol and totalSupply.
 
-![image_add](images/KCoin9.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin9.PNG?raw=true)
 
 ### Second round to buy KaseiCoin Confirmation (different account) (KaseiCoinCrowdsale.sol)
 
-![image_add](images/KCoin10.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin10.PNG?raw=true)
 
 ### Second buy of KaseiCoin Confirmation (KaseiCoinCrowdsale.sol)
 
 Checking balanceOf, symbol and totalSupply.
 
-![image_add](images/KCoin11.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin11.PNG?raw=true)
 
 ### Ganache transactions confirmation
 
-![image_add](images/KCoin12.PNG)
+![image_add](https://github.com/Dottie-Doutre/Unit-21_Dottie-Doutre/blob/main/Images/KCoin12.PNG?raw=true)
